@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="0" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="org.stadiumgoods.com.testrunner.RunCucumberTest" duration-ms="500" started-at="2019-11-10T14:49:37Z" finished-at="2019-11-10T14:49:37Z">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:org.stadiumgoods.com.testrunner.RunCucumberTest@50c87b21]" name="feature" class="cucumber.api.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test name="Command line test" duration-ms="500" started-at="2019-11-10T14:49:37Z" finished-at="2019-11-10T14:49:37Z">
+      <class name="org.stadiumgoods.com.testrunner.RunCucumberTest">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:org.stadiumgoods.com.testrunner.RunCucumberTest@50c87b21]" name="setUpClass" is-config="true" duration-ms="328" started-at="2019-11-10T20:19:37Z" finished-at="2019-11-10T20:19:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:org.stadiumgoods.com.testrunner.RunCucumberTest@50c87b21]" name="tearDownClass" is-config="true" duration-ms="16" started-at="2019-11-10T20:19:37Z" finished-at="2019-11-10T20:19:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- org.stadiumgoods.com.testrunner.RunCucumberTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- org.stadiumgoods.com.testrunner.RunCucumberTest -->
+</testng-results>
